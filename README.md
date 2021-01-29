@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Cover](https://github.com/goniti/goniti/tree/main/img/cover.jpg)
+![Cover]https://github.com/goniti/goniti/blob/main/img/cover.jpg)
