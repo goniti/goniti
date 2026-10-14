@@ -4,7 +4,7 @@
 
 ### **Front-End Engineer** • **Tech Lead Front-End** • **AI-Driven Workflows**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=700&lines=Senior+Front-End+Engineer+%26+Tech+Lead;React+%7C+Vue+%7C+TypeScript+%7C+React+Native;AI-driven+workflows%2C+test-first;Open+to+Tech+Lead+%26+Senior+roles;Lyon%2C+France+%2F+Remote" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=700&lines=Front-End+Engineer+%26+Tech+Lead;React+%7C+Vue+%7C+TypeScript+%7C+React+Native;AI-driven+workflows%2C+test-first;Open+to+Tech+Lead+%26+Senior+roles;Lyon%2C+France+%2F+Remote" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-goniti.github.io%2Fportfolio-3584E4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://goniti.github.io/portfolio/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://goniti.github.io/portfolio/resume.pdf)
