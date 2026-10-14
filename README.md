@@ -20,7 +20,7 @@
 
 In **5 years** and **2 startups**, I helped lead **2 full rebrandings** from A to Z and built **2 complex apps from zero**. My day-to-day: building fast, reliable products with **React**, **Vue** and **TypeScript**, **mentoring junior developers**, and steering AI agents (**Claude Code**, **Cursor**) through **strict workflows** that combine velocity with high code quality.
 
-I'm currently **Tech Lead / Front-End Developer at Saper Vedere**, based in **Lyon, France**, and open to **Tech Lead & Senior Front-End** roles, on site or remote.
+I'm currently **Tech Lead / Front-End Developer at Saper Vedere**, based in **Lyon, France**, and open to **Tech Lead & Front-End** roles, on site or remote.
 
 > *"The test is the contract with the agent."*
 
