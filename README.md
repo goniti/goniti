@@ -206,13 +206,13 @@ My **watch notes** live on the [portfolio](https://goniti.github.io/portfolio/):
 
 > Next.js static export, content in **Sanity CMS** (English and French), **Feature-Sliced Design** architecture, **Playwright** end-to-end tests, deployed on **GitHub Pages**. Source: [goniti/portfolio](https://github.com/goniti/portfolio).
 
-### 🎲 **Meeple**: association-management SaaS
+### 🎲 **Meeple**: management SaaS
 
-> Full-stack app for board-game associations: events, openings, checklists, inventory and tabs. **React** front end and admin back office, **NestJS / Fastify** API, **Keycloak / OIDC** authentication, deployed on a low-cost **VPS hardened with OWASP practices, UFW, anti-DDoS and TLS**. Repo and demo available on request.
+> Full-stack app for board-game : events, openings, checklists, inventory and tabs. **React** front end and admin back office, **NestJS / Fastify** API, **Keycloak / OIDC** authentication, deployed on a low-cost **VPS hardened with OWASP practices, UFW, anti-DDoS and TLS**. Repo and demo available on request.
 
 ### 🧩 **Les Maillons Ludiques**
 
-> Website for a board-game association in Machezal: events, game library, membership and gallery.
+> Website for a board-game: events, game library, membership and gallery.
 
 ### 💼 Professional highlights
 
